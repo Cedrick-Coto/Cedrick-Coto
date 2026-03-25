@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻Web Development Student | Systems Enthusiast
+💻Web Development Student focused on systems, Linux enviroments, and structures problem-solving
 
 I focus on building structured and reliable solutions, with a strong interest in understanding how systems work, not just making them work.
 
@@ -28,6 +28,13 @@ Recently, I worked with NixOs using flakes and Home Manager, where I:
 - Resolved conflict related to experimental features and configuration scopes
 - Structured system vs user environments properly
 
+### 📚Recent Work
+Recently worked on configuring a reproducible system using NixOs with flakes and Home Manager.
+During the process:
+- Faced configuration conflicts with experimental feature
+- Identified scope issues between system and user layers
+- Resolved the problem by restructuring configuration correctly
+This experience strengthened my ability to debug complex systems and understand underlying architecture.
 ## 🔧Technologies & Tools- C#/ .net
 - JavaScript (learning & applying)
 - Linux(NixOS, system configuration)
