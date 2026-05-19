@@ -51,6 +51,7 @@ This experience strengthened my ability to debug complex systems and understand 
 ## 📂Featured Projects
 - A supermarket managment system, with a UI using WinForms, and C# with .Net
 - https://github.com/Cedrick-Coto/SUPER11DCS
+- https://github.com/Cedrick-Coto/NixOs-Configuration
 
 ## 📌Goals
 - Grow as a developer in both web and systems
