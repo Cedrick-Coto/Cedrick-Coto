@@ -38,8 +38,8 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 - **Linux:** NixOS, Arch Linux, Ubuntu, CachyOS
 - **Linux Administration:** System configuration, kernel tuning, Wayland
-- **Nix Ecosystem:** Flakes, Home Manager
-- **Declarative Infrastructure:** Flakes, Home Manager, modular configurations
+- **Nix Ecosystem:** Flakes, Home Manager, modular configurations
+- **Declarative Infrastructure:** Reproducible environments, configuration management
 - **Version Control:** Git, GitHub workflows
 - **Containerization:** Docker
 
@@ -71,7 +71,8 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 - Participated in technical discussions
 - Documented personal infrastructure projects
 
-**What this demonstrates:**
+### What this demonstrates
+
 - Ability to explain technical concepts clearly
 - Consistent documentation practices
 - Initiative in sharing knowledge and solutions
@@ -173,7 +174,7 @@ While I'm currently 16 and focused on learning, I'm building toward:
 **Examples:**
 - **Problem:** System instability (lost essay) → **Solution:** Learned NixOS, built declarative config → **Maintenance:** Continuous refinement and documentation
 - **Problem:** Information overload → **Solution:** Implemented GTD + Zettelkasten → **Maintenance:** 1033 lines, regular commits
-- **Problem:** Philosophical questions → **Solution:** Read Kant, Husserl, Dennett → **Output:** 2 academic essays
+- **Problem:** Philosophical questions → **Solution:** Read Kant, Husserl, Dennett → **Output:** 2 structured philosophical essays
 
 This pattern applies to everything I learn: I don't just "use" tools, I understand systems deeply, document thoroughly, and maintain long-term.
 
