@@ -36,7 +36,9 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 ### Systems & Infrastructure
 
-- **Linux:** NixOS, Arch Linux, Ubuntu, CachyOS, System configuration, Wayland, kernel tuning, Home Manager, Flakes
+- **Linux:** NixOS, Arch Linux, Ubuntu, CachyOS
+- **Linux Administration:** System configuration, kernel tuning, Wayland
+- **Nix Ecosystem:** Flakes, Home Manager
 - **Declarative Infrastructure:** Flakes, Home Manager, modular configurations
 - **Version Control:** Git, GitHub workflows
 - **Containerization:** Docker
@@ -57,7 +59,7 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 ### Soft Skills
 
 - **Self-directed learning:** Developed proficiency in NixOS and philosophical frameworks independently
-- **Documentation:** Clear technical writing, 1000+ lines of structured notes, academic essays
+- **Documentation:** Clear technical writing, 1000+ lines of structured notes, structured philosophical essays
 - **Problem-solving:** Systematic debugging, root cause analysis, iterative improvement
 - **Systems thinking:** Understanding how components interact across layers (network → OS → application)
 
@@ -136,29 +138,18 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 ### Cybersecurity Roadmap (6 months, structured)
 
-**Phase 1: Fundamentals (Months 1-2)**
-- Implement security hardening on NixOS
-- TryHackMe: Complete Beginner Path (20+ rooms)
-- OverTheWire: Bandit (all levels)
-- Network analysis with Wireshark + nmap
+**Current Learning Focus:**
 
-**Phase 2: Offensive Security (Months 3-4)**
-- DVWA: Exploit all vulnerabilities (OWASP Top 10)
-- Metasploit: 10+ documented exploits
-- CTFs: 4 completed with public writeups
-- Burp Suite: Full web app audit
+• Linux hardening
+• TryHackMe
+• OverTheWire
+• Network analysis
+• SIEM technologies
+• DevSecOps fundamentals
 
-**Phase 3: Defensive Security (Months 5-6)**
-- SIEM deployment (Wazuh) with custom detection rules
-- Incident response simulation (full forensic analysis)
-- Blue Team Labs Online: 10+ labs
-- Threat intelligence: Map real attack to MITRE ATT&CK
-
-**Phase 4: Specialization (Month 7+)**
-- Focus: DevSecOps (aligns with NixOS/IaC background)
-- Project: CI/CD pipeline with SAST, DAST, container scanning
-
-**Documentation:** All labs and CTFs documented as public writeups in [Security-Labs repo](https://github.com/Cedrick-Coto/Security-Labs) (coming soon).
+**Current objective:**
+Build a public security portfolio with labs,
+writeups and practical projects.
 
 ---
 
@@ -180,7 +171,7 @@ While I'm currently 16 and focused on learning, I'm building toward:
 > **"Problema identificado → Investigación profunda → Sistema diseñado → Mantenimiento a largo plazo"**
 
 **Examples:**
-- **Problem:** System instability (lost essay) → **Solution:** Learned NixOS, built declarative config → **Maintenance:**
+- **Problem:** System instability (lost essay) → **Solution:** Learned NixOS, built declarative config → **Maintenance:** Continuous refinement and documentation
 - **Problem:** Information overload → **Solution:** Implemented GTD + Zettelkasten → **Maintenance:** 1033 lines, regular commits
 - **Problem:** Philosophical questions → **Solution:** Read Kant, Husserl, Dennett → **Output:** 2 academic essays
 
