@@ -36,10 +36,10 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ### Systems & Infrastructure
 
-- **Linux:** NixOS (advanced), Arch, Ubuntu, CachyOS — System configuration, kernel parameters, Wayland
+- **Linux:** NixOS (advanced: Developed a modular flake-based configuration with security hardening(not tested in a real context) and Home Manager integration), Arch, Ubuntu, CachyOS — System configuration, kernel parameters, Wayland
 - **Declarative Infrastructure:** Flakes, Home Manager, modular configurations
-- **Version Control:** Git (advanced), GitHub workflows
-- **Containerization:** Docker (basic)
+- **Version Control:** Git, GitHub workflows
+- **Containerization:** Docker
 
 ### Networking & Security
 
