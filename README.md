@@ -1,6 +1,6 @@
 # Cedrick Coto
 
-**Systems Engineer & Cybersecurity Enthusiast**  
+**Aspiring Systems Engineer & Cybersecurity Enthusiast**  
 📍 Costa Rica | 🎂 16 years old | 🌐 [GitHub](https://github.com/Cedrick-Coto) | 📧 cedrick.coto@gmail.com
 
 ---
@@ -19,7 +19,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Future Certifications & Education
 
 | Certification | Issuer | Year | Focus |
 |--------------|--------|------|-------|
