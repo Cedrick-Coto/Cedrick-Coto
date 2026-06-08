@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-taught systems engineer with a strong focus on **Linux systems**, **network security**, and **declarative infrastructure**. At 16, I've built reproducible and maintainable NixOS configurations, earned industry certifications, and developed a systematic approach to learning complex technologies.
+I'm a self-taught systems administration and cybersecurity enthusiast with a strong focus on **Linux systems**, **network security**, and **declarative infrastructure**. At 16, I've built reproducible and maintainable NixOS configurations, and developed a systematic approach to learning complex technologies.
 
 **What sets me apart:**
 - Built a complete NixOS system from scratch in 2 weeks (shared on Reddit, received community recognition)
@@ -36,7 +36,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ### Systems & Infrastructure
 
-- **Linux:** NixOS (advanced: Developed a modular flake-based configuration with security hardening(not tested in a real context) and Home Manager integration), Arch, Ubuntu, CachyOS — System configuration, kernel parameters, Wayland
+- **Linux:** Developed a modular Flake-based configuration on NixOs with Home Manager integration and security hardening concepts implemented in a personal environment, Arch, Ubuntu, CachyOS — System configuration, kernel parameters, Wayland
 - **Declarative Infrastructure:** Flakes, Home Manager, modular configurations
 - **Version Control:** Git, GitHub workflows
 - **Containerization:** Docker
@@ -56,7 +56,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ### Soft Skills
 
-- **Self-directed learning:** Mastered NixOS, and philosophical frameworks independently
+- **Self-directed learning:** Developed proficiency in NixOS and philosophical frameworks independently
 - **Documentation:** Clear technical writing, 1000+ lines of structured notes, academic essays
 - **Problem-solving:** Systematic debugging, root cause analysis, iterative improvement
 - **Systems thinking:** Understanding how components interact across layers (network → OS → application)
@@ -112,7 +112,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ### Philosophical Essays (Private)
 
-**Academic-level essays on epistemology and consciousness**
+**Structured essays on epistemology and consciousness**
 
 1. **"Temporalismo Epistemológico-Conservacionista"** (Age 15)
    - Interdisciplinary framework integrating ontology, epistemology, physics, and phenomenology
