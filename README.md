@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-taught systems engineer with a strong focus on **Linux systems**, **network security**, and **declarative infrastructure**. At 16, I've built production-ready NixOS configurations, earned industry certifications, and developed a systematic approach to learning complex technologies.
+I'm a self-taught systems engineer with a strong focus on **Linux systems**, **network security**, and **declarative infrastructure**. At 16, I've built reproducible and maintainable NixOS configurations, earned industry certifications, and developed a systematic approach to learning complex technologies.
 
 **What sets me apart:**
 - Built a complete NixOS system from scratch in 2 weeks (shared on Reddit, received community recognition)
@@ -19,7 +19,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ---
 
-## 🎓 Future Certifications & Education
+## 🎓 Planned Certifications & Education in Certification Roadmap
 
 | Certification | Issuer | Year | Focus |
 |--------------|--------|------|-------|
@@ -56,7 +56,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 ### Soft Skills
 
-- **Self-directed learning:** Mastered NixOS, CCNA, and philosophical frameworks independently
+- **Self-directed learning:** Mastered NixOS, and philosophical frameworks independently
 - **Documentation:** Clear technical writing, 1000+ lines of structured notes, academic essays
 - **Problem-solving:** Systematic debugging, root cause analysis, iterative improvement
 - **Systems thinking:** Understanding how components interact across layers (network → OS → application)
@@ -76,7 +76,6 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
   - Custom kernel parameters for AMD GPU optimization
   - Wayland-native environment with Noctalia Shell
   - Gaming stack (Steam, Lutris, Proton) + development tools
-  - Catppuccin theming across system
 - **Recognition:** Shared on Reddit after 2 weeks, received community praise
 - **Tech:** NixOS, Flakes, Home Manager, Hyprland, Git
 
@@ -88,7 +87,7 @@ I'm a self-taught systems engineer with a strong focus on **Linux systems**, **n
 
 **Desktop application for inventory and sales management**
 
-- **Tech:** C#, .NET, WinForms
+- **Tech:** C#, .NET
 - **Features:** Inventory tracking, sales processing, user management, reporting
 - **Context:** Academic project demonstrating OOP principles and database integration
 
@@ -219,18 +218,6 @@ This pattern applies to everything I learn: I don't just "use" tools, I understa
 - 🐧 Daily driver: NixOS with Hyprland on Wayland (no X11)
 - ⚡ "Commit diario" (daily commit) is my favorite sport — consistency over intensity
 - 🧩 I debug my own thinking the same way I debug systems (metacognition applied)
-
----
-
-## 📈 Current Stats (May 2026)
-
-- **Age:** 16
-- **Years coding:** 2+
-- **NixOS experience:** 2 months (from zero to advanced)
-- **Org-mode lines:** 1033+
-- **GitHub commits (NixOS):** 22 in 2 months
-- **Certifications:** CCNA, Cisco Cybersecurity Fundamentals
-- **Next milestone:** 50+ CTFs completed with writeups (6 months)
 
 ---
 
