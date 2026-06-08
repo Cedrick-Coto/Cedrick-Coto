@@ -12,7 +12,7 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 **What sets me apart:**
 - Built a complete NixOS system from scratch in 2 weeks (shared on Reddit, received community recognition)
 - Implemented GTD + Zettelkasten knowledge management (1000+ lines of org-mode)
-- Wrote academic philosophical essays on epistemology and consciousness (15-16 years old)
+- Wrote structured philosophical essays on epistemology and consciousness (15-16 years old)
 - Self-taught through documentation, debugging, and real problem-solving
 
 **Current focus:** Transitioning from systems administration to **offensive and defensive cybersecurity** with a 6-month structured roadmap.
@@ -36,14 +36,14 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 ### Systems & Infrastructure
 
-- **Linux:** Developed a modular Flake-based configuration on NixOs with Home Manager integration and security hardening concepts implemented in a personal environment, Arch, Ubuntu, CachyOS — System configuration, kernel parameters, Wayland
+- **Linux:** NixOS, Arch Linux, Ubuntu, CachyOS, System configuration, Wayland, kernel tuning, Home Manager, Flakes
 - **Declarative Infrastructure:** Flakes, Home Manager, modular configurations
 - **Version Control:** Git, GitHub workflows
 - **Containerization:** Docker
 
 ### Networking & Security
 
-- **Networking:** TCP/IP, subnetting, routing protocols, VLANs, ACLs (CCNA-level)
+- **Networking:** TCP/IP, subnetting, VLANs, routing fundamentals
 - **Security Tools:** nmap, Wireshark, tcpdump (learning: Metasploit, Burp Suite, Wazuh)
 - **Hardening:** Firewall configuration, SSH hardening, fail2ban, kernel security parameters
 - **Monitoring:** auditd, rsyslog, system logging
@@ -63,13 +63,27 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 ---
 
+## 🐙 Open Source Activity
+
+- Shared NixOS configuration with the community
+- Participated in technical discussions
+- Documented personal infrastructure projects
+
+**What this demonstrates:**
+- Ability to explain technical concepts clearly
+- Consistent documentation practices
+- Initiative in sharing knowledge and solutions
+- Constructive participation in technical communities
+
+---
+
 ## 🚀 Featured Projects
 
 ### [NixOS Configuration](https://github.com/Cedrick-Coto/NixOs-Configuration) ⭐
 
 **Declarative, reproducible NixOS system built from scratch**
 
-- **Timeline:** 2 weeks from zero to functional system, 2 months of refinement (22 commits)
+- **Timeline:** 2 weeks from zero to functional system, 2 months of refinement
 - **Architecture:** Modular Hyprland configuration (8 separate modules), Flakes + Home Manager
 - **Features:**
   - Complete security hardening module (`security.nix`) with 20 sections
@@ -80,16 +94,6 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 - **Tech:** NixOS, Flakes, Home Manager, Hyprland, Git
 
 **Key achievement:** Solved the problem of system fragility (lost an essay due to system instability) by building a fully reproducible, declarative system where `git checkout` + `nixos-rebuild` restores any previous state.
-
----
-
-### [Supermarket Management System](https://github.com/Cedrick-Coto/SUPER11DCS)
-
-**Desktop application for inventory and sales management**
-
-- **Tech:** C#, .NET
-- **Features:** Inventory tracking, sales processing, user management, reporting
-- **Context:** Academic project demonstrating OOP principles and database integration
 
 ---
 
@@ -176,7 +180,7 @@ While I'm currently 16 and focused on learning, I'm building toward:
 > **"Problema identificado → Investigación profunda → Sistema diseñado → Mantenimiento a largo plazo"**
 
 **Examples:**
-- **Problem:** System instability (lost essay) → **Solution:** Learned NixOS, built declarative config → **Maintenance:** 22 commits over 2 months
+- **Problem:** System instability (lost essay) → **Solution:** Learned NixOS, built declarative config → **Maintenance:**
 - **Problem:** Information overload → **Solution:** Implemented GTD + Zettelkasten → **Maintenance:** 1033 lines, regular commits
 - **Problem:** Philosophical questions → **Solution:** Read Kant, Husserl, Dennett → **Output:** 2 academic essays
 
