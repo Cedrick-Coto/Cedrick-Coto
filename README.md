@@ -15,7 +15,7 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 - Wrote structured philosophical essays on epistemology and consciousness (15-16 years old)
 - Self-taught through documentation, debugging, and real problem-solving
 
-**Current focus:** Transitioning from systems administration to **offensive and defensive cybersecurity** with a 6-month structured roadmap.
+**Current focus:** Expanding from systems administration into **offensive and defensive cybersecurity** through a structured learning roadmap.
 
 ---
 
