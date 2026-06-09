@@ -100,7 +100,7 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 ---
 
-### Knowledge Management System (Private)
+### Knowledge Management System
 
 **Personal GTD + Zettelkasten implementation**
 
@@ -117,7 +117,7 @@ I'm a self-taught systems administration and cybersecurity enthusiast with a str
 
 ---
 
-### Philosophical Essays (Private)
+### Philosophical Essays
 
 **Structured essays on epistemology and consciousness**
 
@@ -177,14 +177,6 @@ While I'm currently 16 and focused on learning, I'm building toward:
 - **Problem:** Philosophical questions → **Solution:** Read Kant, Husserl, Dennett → **Output:** 2 structured philosophical essays
 
 This pattern applies to everything I learn: I don't just "use" tools, I understand systems deeply, document thoroughly, and maintain long-term.
-
----
-
-## 📊 GitHub Stats
-
-![Cedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrick-Coto&show_icons=true&theme=catppuccin_mocha)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedrick-Coto&layout=compact&theme=catppuccin_mocha)
 
 ---
 
